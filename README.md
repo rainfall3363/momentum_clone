@@ -1,2 +1,2 @@
 # momentum_clone
-Cloning momentum app by using JavaScript
+Cloning momentum app using JavaScript
