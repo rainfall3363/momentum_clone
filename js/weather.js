@@ -17,4 +17,4 @@ function onGeoErr() {
     alert("Can't find location. No weather can't be found.");
 }
 
-navigator.geolocation.getCurrentPosition(onGeoSucc, onGeoErr);
+// navigator.geolocation.getCurrentPosition(onGeoSucc, onGeoErr);
